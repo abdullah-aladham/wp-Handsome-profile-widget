@@ -1,11 +1,12 @@
 
 /*
 plugin Name:HandSome Profile widget HD 
-Description:adds ability to add social profiles to a site and output them as a widget and supports arabic language sites 
+Description:adds ability to add social profiles to a site and output them as a widget and supports arabic language sites <a href="https://www.fiverr.com/users/abdullahaladham">my Fiverr account</a>
 version:1.0 
 license:Gpl-2.08+
 Author:Abdullah Azzam Aladham
 Author URI:https://www.linkedin.com/in/abdullah-aladham/
+
 Text domain:handsome-profile-widget-hd
 
 This program is free software ,you can use or redistribute it ,but you can't modify it without anypermission*/
